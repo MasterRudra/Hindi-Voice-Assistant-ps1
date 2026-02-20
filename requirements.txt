@@ -1,0 +1,10 @@
+numpy
+vosk
+sounddevice
+pyaudio
+llama-cpp-python
+huggingface-hub
+requests
+sqlite3
+tflite-runtime
+smbus2

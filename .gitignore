@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Models (Giant Files - Downloaded via script)
+*.gguf
+*.onnx
+*.onnx.json
+vosk-model-*/
+piper/
+
+# Data & DBs
+*.db
+*.db-journal
+
+# OS files
+.DS_Store
+Thumbs.db
